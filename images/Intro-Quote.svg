@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1022 501.985">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #58b2af;
+      }
+
+      .cls-2, .cls-3 {
+        fill: #fff;
+        font-family: SegoeUI-Semibold, Segoe UI;
+        font-weight: 600;
+      }
+
+      .cls-2 {
+        font-size: 20px;
+        opacity: 0.66;
+      }
+
+      .cls-3 {
+        font-size: 30px;
+      }
+
+      .cls-4 {
+        filter: url(#wave1);
+      }
+    </style>
+    <filter id="wave1" x="0" y="0" width="1022" height="501.985" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Intro-Quote" transform="translate(9 -1026.8)">
+    <g class="cls-4" transform="matrix(1, 0, 0, 1, -9, 1026.8)">
+      <path id="wave1-2" data-name="wave1" class="cls-1" d="M850,438.533c17.333,78-28.267-214.933-340-34.667s-510,0-510,0V0H1004V282.533S832.667,360.533,850,438.533Z" transform="translate(1013 489.99) rotate(180)"/>
+    </g>
+    <text id="Lorem_ipsum_dolor_sit_amet_consectetur_adipiscing_elit_sed_do_eiusmod_tempor_incididunt_ut_labore_et_dolore_magna" data-name="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna" class="cls-2" transform="translate(220 1362)"><tspan x="12.444" y="22">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed </tspan><tspan x="22.161" y="49">do eiusmod tempor incididunt ut labore et dolore magna</tspan></text>
+    <text id="_Incredible_projects_are_made_by_incredible_ideas_" data-name="&quot;Incredible projects are made by incredible ideas&quot;" class="cls-3" transform="translate(163 1299)"><tspan x="0" y="32">&quot;Incredible projects are made by incredible ideas&quot;</tspan></text>
+  </g>
+</svg>

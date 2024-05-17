@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 483.985">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #58b2af;
+      }
+    </style>
+  </defs>
+  <path id="wave1" class="cls-1" d="M1083.665,438.533c22.1,78-36.037-214.933-433.466-34.667s-650.2,0-650.2,0V0H1280V282.533S1061.567,360.533,1083.665,438.533Z" transform="translate(1280 483.985) rotate(180)"/>
+</svg>
